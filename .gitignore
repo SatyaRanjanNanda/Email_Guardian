@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.joblib
+email_guardian.log
+node_modules/ 

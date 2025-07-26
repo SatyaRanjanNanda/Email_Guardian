@@ -1,0 +1,7 @@
+text,label
+"Congratulations, you have won a lottery! Click here to claim.",spam
+Your account has been suspended. Please verify your details.,spoof
+"Hi John, can we reschedule our meeting?",ham
+This is a spoofed email pretending to be your bank.,spoof
+"Dear user, your account is at risk. Update your password now.",spam
+Lunch at 1pm?,ham
